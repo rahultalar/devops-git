@@ -1,0 +1,6 @@
+# TEMP folders
+temp/
+
+# ends with .apy, except a file named myfile.apy.
+*.apy
+!myfile.apy
